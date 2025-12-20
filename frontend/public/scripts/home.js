@@ -5,6 +5,6 @@ export function initHome() {
   //status.textContent = "JS carregado corretamente ✅";
 
   button.addEventListener("click", () => {
-    alert("Ester Évellyn!! Amo-te");
+    alert("Ester Évellyn!! Eu te amo muito!!");
   });
 }
